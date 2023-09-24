@@ -2,7 +2,8 @@ title: Michele Piazzai
 description: Assistant Professor and Ramón y Cajal Researcher at Carlos III University of Madrid
 taglong: Carlos III University of Madrid
 tagshort: UC3M
-url: https://piazzai.github.io
+url: https://icp.me
+baseurl:  '/piazzai'
 permalink: pretty
 repo: https://github.com/piazzai/piazzai.github.io
 
