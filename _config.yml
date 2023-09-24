@@ -5,7 +5,7 @@ tagshort: UC3M
 url: https://icp.me
 baseurl:  '/piazzai'
 permalink: pretty
-repo: https://github.com/piazzai/piazzai.github.io
+repo: https://github.com/
 
 exclude:
   - LICENSE
