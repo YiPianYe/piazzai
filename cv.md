@@ -1,6 +1,6 @@
 ---
-layout: pages
-title: AboutMe
+layout: cv
+title: cv
 ---
 
 # Curriculum Vitæ
