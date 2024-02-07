@@ -8,11 +8,7 @@ title: AboutMe
   <summary>
     <i>Click to view features</i>
   </summary>
- [1]: http://www.google.com/
-  
-  [runoob]: http://www.runoob.com/
-  
-[菜鸟教程](https://www.runoob.com)  这是一个链接 
+这是一个链接 [菜鸟教程](https://www.runoob.com)
 
 </details>
 
@@ -25,3 +21,9 @@ title: AboutMe
 | 单元格 | 单元格 | 单元格 |
 | 单元格 | 单元格 | 单元格 |
 </details>
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
+
+这是一个链接 [菜鸟教程](https://www.runoob.com)
